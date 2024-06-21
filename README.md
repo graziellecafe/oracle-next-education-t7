@@ -58,3 +58,111 @@ Carreira não é mais uma sequência de posições, é uma sequência de **exper
 
 **Ikigai**
 ![Ikigai](img/ikigai.png)
+
+### Técnicas para seu autodesenvolvimento 
+1. Talento ou Disciplina? 
+
+Para sair da zona de conforto é necessário que passemos pela fase de Aprendizagem, Estresse e Estusiasmo. 
+
+![Zona de Conforto](img/zona.png)
+
+2. Consistência 
+
+- Disciplina é questão de hábito 
+- Criar hábitos: disposição, rotina e recompensa. 
+
+**Explique com suas próprias palavras os principais conceitos que você aprendeu nesta aula.**
+
+Grazielle, parabéns pela dedicação aos estudos! Você abordou pontos importantes da aula, como a transição da zona de conforto para a zona de aprendizagem, a importância de criar novos hábitos e o conceito de flow. Além disso, mencionou a relevância de buscar feedbacks construtivos e o conceito de lifelong learning. Além disso, também vimos na aula a importância de sair da zona de estresse para evitar a ansiedade e manter um estado de flow. A direção é mais importante que a velocidade, e um pouquinho de esforço todo dia pode gerar muitas horas de aprendizado ao longo do tempo. É fundamental não desistir no meio do caminho, pois a criação de bons hábitos leva tempo. Também discutimos sobre os ralos de atenção, que são as distrações que podem desviar nosso foco, e as barreiras físicas e emocionais que podem dificultar nosso progresso. A celebração das pequenas conquistas é essencial para manter a motivação e o entusiasmo ao longo da jornada. Continue estudando e praticando!
+
+## Desvendando o cérebro 
+**Mindset fixo e de crescimento**
+
+Recomendação de livro: Mindset, Carol S. Dweck.: Mindset de crescimento e mindset fixo. 
+
+**Mindset fixo**: dificulta nosso processo de nos desenvolvermos 
+- A quantidade de inteligência é algo limitado 
+- Sou bom em certas coisas 
+- Desisto quando fica muito difícil 
+- Não me sinto bem com grandes desafios 
+- Feedback é uma crítica 
+- Prefiro fazer coisas que já sei 
+
+
+**Mindset de crescimento**: que nos ajuda a aprender coisas novas 
+- A quantidade de inteligência é ilimitada 
+- Posso ser bom em qualquer coisa 
+- Vamos fazer dar certo! 
+- Adoro grandes desafios 
+- Feedback é uma ajuda para crescer 
+- Gosto de aprender a fazer coisas que não sei 
+
+Procure um mentor, professor, amigo que te anime e que você tem o como inspiração. 
+
+**Como o mindset pode mudar ao longo da vida?**
+- busque inspiração em mentores 
+- autoconfiança
+- aproveite todas as oportunidades 
+- motivação e foco 
+- dedicação 
+
+**Modelo focado e modelo difuso**
+- Concentração 
+- Repetir padrões 
+- Planejado 
+- Problemas conhecidos 
+
+Difuso: 
+- Visão ampliada 
+- Conexões inconscientes
+- Aleatório 
+- Novas soluções 
+
+Dicas: 
+- Estudar mais um tema por vez 
+- Ler dois livros ao mesmo tempo
+- Ter um emprego e um projeto voluntário 
+- Não abrir mão dos momentos de ócio 
+
+
+**Melhores métodos para aprender de forma eficiente** 
+- Auditivo: Podcast, Audio book, ouvir gravaçào de aulas 
+- Visual: Infográficos, PowerPoints, Mapa Mentais, Vídeo Aulas, Ted
+- Leitura / Escrita: Livros, sites, blogs, artigos, resumos 
+- Cinestésico: Eventos, on the job, projetos 
+
+**Memória de longo prazo** 
+Aprendizagem é o processo de adquirir informação para memória de longo prazo, juntar diferentes blocos de conhecimento e saber aplicar. 
+
+- Decorar é diferente de entender
+- Foco na hora de estudar
+- Conhecer o contexto de utilização 
+- Assimilar a outros blocos de conhecimento 
+- Saber aplicar sozinho 
+
+Aplicar em diferentes situações e revisar por diferentes métodos faz seu cérebro saber acessar por diferentes caminhos. 
+
+Palavra: DISCIPLINA
+
+## Metas ##
+1. Por que quero aprender? 
+2. Onde vou usar? 
+3. Quando quero estar pronto? 
+
+Método SMART
+S: específica 
+M: mensurável 
+A: atingível 
+R: relevância 
+T: tempo determinado
+
+
+**METAS CLARAS**: Qual a sua meta de aprendizagem? E quais conhecimentos e atitudes você precisa aprender e/ou aplicar para chegar lá?
+
+**PROCESSO DE APRENDIZADO**: Qual será sua rotina semanal com horários de treino e de pausa para desenvolver estes conhecimentos e atitudes?
+
+**HÁBITOS**: qual o hábito que você pode criar para chegar lá? Quais serão a disposição, a rotina e a recompensa para chegar lá?
+
+**RALOS DE ATENÇÃO**: quais os cuidados deve tomar para eliminar os ralos de atenção para este plano de ação
+
+**EXERCITE ALÉM DO CÉREBRO**: que atividade física você irá manter e/ou incluir na sua rotina para fomentar este desenvolvimento?
