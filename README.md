@@ -2,7 +2,7 @@
 
 Objetivo: Repositório para realizar as tarefas e documentar o aprendizado para o programa da Oracle Next Education - Turma 7
 
-## 01.Desenvolvimento Pessoal 
+## Desenvolvimento Pessoal 
 ### Aprendendo a Aprender
 **Pontos essenciais para aprender a aprender**
 - Estudar um pouco todos os dias
@@ -25,7 +25,7 @@ Comunidade é uma peça fundamental quando o assunto é estudar.
 
 Se você é mulher ou LGBTQI+ recomendo fortemente a comunidade **Programaria** e **Reprograma**. 
 
-## 02. Aprendendo a aprender - Técnicas para seu autodesenvolvimento
+## Aprendendo a aprender - Técnicas para seu autodesenvolvimento
 
 Aprender é uma construção de experiências. 
 
@@ -166,3 +166,62 @@ T: tempo determinado
 **RALOS DE ATENÇÃO**: quais os cuidados deve tomar para eliminar os ralos de atenção para este plano de ação
 
 **EXERCITE ALÉM DO CÉREBRO**: que atividade física você irá manter e/ou incluir na sua rotina para fomentar este desenvolvimento?
+
+## Linkedin: como fazer o seu perfil trabalhar por você  
+**O que o Linkedin não é**
+- Algo estático 
+- Repositório de currículos 
+- Lugar para enviar spam
+
+**O que fazer para ter mais destaque?** 
+- Compartilhar seu conhecimento de forma generosa
+- Ajudar os colegas do grupo respondendo a dúvidas 
+- Publicar links úteis e conteúdo relevante 
+- Divulgar oportunidades realmente valiosas
+
+**O que fazer para ter mais destaque?**
+- Compartilhar seu conhecimento de forma generosa 
+- Ajudar os colegas do grupo respondendo a dúvidas 
+- Publicar links úteis e conteúdo relevante
+- Divulgar oportunidades realmente valiosas 
+
+## Foco: trazendo mais resultados para o dia a dia 
+Espera-se com o curso que: 
+- Se organize melhor 
+- Crie estratégias para manter seu foco 
+- Promova seu autoconhecimento 
+- Menos distrações 
+- Mais força de vontade 
+
+“Fazer muita coisa ao mesmo tempo é meramente a oportunidade de estragar mais de uma coisa ao mesmo tempo.” - Steve Uzzell.
+
+A disciplina sozinha não é suficiente para o sucesso. O que realmente precisamos é direcionar melhor a disciplina que já temos.
+
+Em vez de focar em grandes objetivos, é melhor começar com hábitos e metas menores, que podem ser incorporados gradualmente à nossa rotina.
+
+Cultivar um hábito por vez, com paciência e persistência, é mais eficaz do que tentar mudar tudo de uma vez.
+
+A chave é desenvolver uma mentalidade de crescimento positiva, aproveitando os obstáculos como oportunidades de aprendizado.
+
+**Força de vontade** 
+
+Exercícios para melhorar a força de vontade e autodisciplina:
+
+- Dez minutos de meditação: A meditação é o exercício que apresentará os resultados mais rapidamente.
+
+- Trabalhe sua postura: Melhorar a postura pode ajudar a melhorar a autoconfiança.
+
+- Mantenha controle do que come diariamente: Ter controle sobre a alimentação é um excelente exercício de disciplina.
+
+- Use sua mão oposta: Tente usar sua mão não dominante para realizar tarefas do dia a dia.
+
+
+- Corrija seu modo de falar: Evite palavras negativas e trabalhe para falar de maneira mais positiva.
+
+- Crie prazos e se obrigue a alcançá-los: Estabelecer metas e trabalhar para alcançá-las pode ajudar a melhorar a autodisciplina.
+
+- Mantenha controle dos seus gastos: Gerenciar o dinheiro de maneira eficaz é um bom exercício para a força de vontade.
+
+- Pressione um handgrip: Este exercício físico pode ajudar a aumentar a força de vontade.
+
+- Persista, recomece ou empenhe-se mais da próxima vez: Não pare no fracasso. Persistir, recomeçar ou empenhar-se mais da próxima vez, essa deve ser sempre a nossa lição nos pequenos fracassos. 
