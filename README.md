@@ -225,3 +225,41 @@ Exercícios para melhorar a força de vontade e autodisciplina:
 - Pressione um handgrip: Este exercício físico pode ajudar a aumentar a força de vontade.
 
 - Persista, recomece ou empenhe-se mais da próxima vez: Não pare no fracasso. Persistir, recomeçar ou empenhar-se mais da próxima vez, essa deve ser sempre a nossa lição nos pequenos fracassos. 
+
+
+## Força de vontade e autodisciplina 
+Nesta aula falamos sobre força de vontade e autodisciplina e sua importância para que consigamos estabelecer foco. Vamos recapitular quais discussões foram atravessadas?
+
+**Estresse do trabalho**: A rotina repetitiva e estressante do trabalho pode levar a um sentimento de insatisfação.
+
+**Excesso de autoconfiança**: Acreditar que pode lidar com tudo sozinho pode levar à frustração quando as coisas não saem como planejado.
+
+**Pensamento negativo**: Um ambiente negativo pode levar à desmotivação e à sensação de que as coisas nunca mudam.
+
+**Esperar pela inspiração ideal**: Procrastinar à espera do momento perfeito pode ser um obstáculo para o foco e a realização de tarefas.
+
+**Falta de sono**: Dormir pouco pode afetar negativamente o desempenho e a produtividade.
+
+**Força de vontade**: A força de vontade é fundamental para manter o foco e alcançar os objetivos, seja na saúde, no trabalho ou na vida pessoal.
+
+**Prática leva à perfeição**: A força de vontade funciona como um músculo. Começamos devagar e aumentamos gradualmente.
+
+**Cansaço**: A força de vontade diminui quando ficamos cansados. É importante focar mais nas metas quando se está mais disposto.
+
+**Hábitos ruins**: Retomar hábitos ruins pode ser tentador, mas é importante manter o equilíbrio.
+
+**Dieta saudável**: Uma dieta com mais vegetais e menos alimentos processados oferece mais energia ao cérebro e pode melhorar todos os aspectos necessários para manter a determinação com suas metas.
+
+**Combate ao estresse**: O estresse é inevitável, mas existem alternativas para lidar com ele. Estresse e força de vontade não andam juntos.
+
+**Sono**: O sono é regulador e nos faz sentir melhor. Melhorar o sono pode ser uma maneira simples e eficaz de ajudar a controlar o estresse.
+
+**Foco no agora**: É importante focar no momento presente e lembrar-se sempre do objetivo maior para manter a motivação.
+
+**Recompensas**: Associar tarefas a pequenas recompensas pode ajudar a encarar as tarefas como algo positivo e motivador.
+
+**Consciência**: Ter consciência das próprias ações é fundamental para evitar comportamentos automáticos e robóticos.
+
+**Gatilhos**: Utilizar gatilhos, como lembretes visuais, pode ajudar a impulsionar a motivação e facilitar a realização de tarefas.
+
+**Reflexão diária**: A reflexão precisa ser um exercício diário para ajudar a incorporar novos hábitos e ter mais consciência das próprias ações.
