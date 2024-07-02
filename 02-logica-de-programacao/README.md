@@ -28,3 +28,10 @@ Ou seja, em resumo, suas principais funcionalidades são:
 Link com dicas de comandos: [Atalhos no VSCODE](https://www.alura.com.br/artigos/visualstudio-code-instalacao-teclas-de-atalho-plugins-e-integracoes)
 
 # Lógica de programação: mergulhe em programação em programação com Javascript 
+A **lógica de programação** nada mais é do que uma **sequência de passos** para resolver um problema. Quem vai resolver o problema, nesse caso, é o computador, **baseado** nas instruções que passamos para ele. Então, precisamos saber quais tipos de instruções o computador entende e qual a melhor forma de passarmos os comandos para nos comunicarmos com ele.
+
+Trabalharemos com conceitos como: 
+ - variáveis
+ - loops
+ - condicionais
+ - if e else
